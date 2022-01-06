@@ -1,0 +1,1 @@
+module.exports.sudo = require("./command/sudo");
